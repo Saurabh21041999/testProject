@@ -1,0 +1,2 @@
+This is my  first attempt to Git!
+Inside file1.txt
